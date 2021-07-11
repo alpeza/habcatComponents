@@ -1,0 +1,5 @@
+pin: 7
+initialState: False
+topics:
+  input: led1/input
+  output: led1/output

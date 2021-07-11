@@ -1,0 +1,5 @@
+pin: 18 #GPIO 24
+initialState: LOOP #BEEP|STOP|LOOP
+sequence: s1,z1    # s3 suena 3 segundos, z1 esta en silencio 1 segundo
+topics:
+  input: buzzer/input
